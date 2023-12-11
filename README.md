@@ -17,3 +17,5 @@
 - Currently working on one team project with other four guys, we are replying the structure of a famous web site based on cryptos.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 - You can also contact me by email, at tommaso.merli97@gmail.com
+
+### See you later, have a nice day!
