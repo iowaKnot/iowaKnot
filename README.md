@@ -7,8 +7,8 @@
   <img align="left" alt="Tommaso's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<br />
-<img style="width: 400px; heigth: 200px;" align="top" alt="GIF" src="https://github.com/iowaKnot/iowaKnot/blob/58f673adc12e852fcc16152deb45c15261871b1d/cyberpunk-pixel-city-neon.gif" />
+<br>
+<img style="width: 400px; heigth: 200px;" alt="GIF" src="https://github.com/iowaKnot/iowaKnot/blob/58f673adc12e852fcc16152deb45c15261871b1d/cyberpunk-pixel-city-neon.gif" />
 
 ### I am Tommaso Merli
 - A student in Develhope, and im becoming a Full-stack Web Developer.
