@@ -18,4 +18,7 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 - You can also contact me by email, at tommaso.merli97@gmail.com
 
+### Here some stats:
+![github stats](https://github-readme-stats.vercel.app/api?username=iowaKnot)
+
 ### See you later, have a nice day!
